@@ -1,0 +1,2215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Widget Product Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-21 10:57+0700\n"
+"PO-Revision-Date: 2015-08-21 10:58+0700\n"
+"Last-Translator: Nguyen Cong Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-interface.php:129
+msgid "Settings successfully saved."
+msgstr ""
+
+#: admin/admin-interface.php:137
+msgid "Error: Settings can not save."
+msgstr ""
+
+#: admin/admin-interface.php:145
+msgid "Settings successfully reseted."
+msgstr ""
+
+#: admin/admin-interface.php:166
+msgid "Thin"
+msgstr ""
+
+#: admin/admin-interface.php:167
+msgid "Thin/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:168
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-interface.php:169
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-interface.php:170
+msgid "Bold"
+msgstr ""
+
+#: admin/admin-interface.php:171
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:181
+msgid "Solid"
+msgstr ""
+
+#: admin/admin-interface.php:182
+msgid "Double"
+msgstr ""
+
+#: admin/admin-interface.php:183
+msgid "Dashed"
+msgstr ""
+
+#: admin/admin-interface.php:184
+msgid "Dotted"
+msgstr ""
+
+#: admin/admin-interface.php:185
+msgid "Groove"
+msgstr ""
+
+#: admin/admin-interface.php:186
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:187
+msgid "Inset"
+msgstr ""
+
+#: admin/admin-interface.php:188
+msgid "Outset"
+msgstr ""
+
+#: admin/admin-interface.php:1358 admin/admin-interface.php:1448
+#: admin/admin-interface.php:1477
+#: admin/settings/card-skin/card-layout-settings.php:237
+#: admin/settings/card-skin/card-layout-settings.php:255
+#: admin/settings/card-skin/card-layout-settings.php:261
+#: admin/settings/card-skin/card-layout-settings.php:267
+#: admin/settings/card-skin/card-layout-settings.php:273
+#: admin/settings/card-skin/card-layout-settings.php:291
+#: admin/settings/card-skin/card-layout-settings.php:307
+#: admin/settings/card-skin/card-layout-settings.php:324
+#: admin/settings/card-skin/card-layout-settings.php:330
+#: admin/settings/card-skin/card-layout-settings.php:348
+#: admin/settings/card-skin/card-layout-settings.php:365
+#: admin/settings/card-skin/card-layout-settings.php:371
+#: admin/settings/card-skin/card-layout-settings.php:386
+#: admin/settings/card-skin/card-layout-settings.php:392
+#: admin/settings/card-skin/card-layout-settings.php:398
+#: admin/settings/card-skin/card-layout-settings.php:404
+#: admin/settings/card-skin/card-layout-settings.php:422
+#: admin/settings/card-skin/card-layout-settings.php:438
+#: admin/settings/card-skin/card-layout-settings.php:449
+#: admin/settings/card-skin/control-settings.php:208
+#: admin/settings/card-skin/control-settings.php:226
+#: admin/settings/card-skin/control-settings.php:232
+#: admin/settings/card-skin/description-settings.php:214
+#: admin/settings/card-skin/description-settings.php:220
+#: admin/settings/card-skin/description-settings.php:226
+#: admin/settings/card-skin/description-settings.php:232
+#: admin/settings/card-skin/footer-cell-settings.php:249
+#: admin/settings/card-skin/footer-cell-settings.php:255
+#: admin/settings/card-skin/footer-cell-settings.php:261
+#: admin/settings/card-skin/footer-cell-settings.php:267
+#: admin/settings/card-skin/pager-settings.php:208
+#: admin/settings/card-skin/pager-settings.php:226
+#: admin/settings/card-skin/pager-settings.php:232
+#: admin/settings/card-skin/price-settings.php:219
+#: admin/settings/card-skin/price-settings.php:225
+#: admin/settings/card-skin/price-settings.php:231
+#: admin/settings/card-skin/price-settings.php:237
+#: admin/settings/card-skin/skin-settings.php:220
+#: admin/settings/card-skin/skin-settings.php:242
+#: admin/settings/card-skin/title-settings.php:219
+#: admin/settings/card-skin/title-settings.php:225
+#: admin/settings/card-skin/title-settings.php:231
+#: admin/settings/card-skin/title-settings.php:237
+#: admin/settings/carousel/carousel-settings.php:209
+#: admin/settings/carousel/control-settings.php:208
+#: admin/settings/carousel/control-settings.php:226
+#: admin/settings/carousel/control-settings.php:232
+#: admin/settings/carousel/pager-settings.php:208
+#: admin/settings/carousel/pager-settings.php:226
+#: admin/settings/carousel/pager-settings.php:232
+#: admin/settings/mobile-skin/category-link-settings.php:208
+#: admin/settings/mobile-skin/category-link-settings.php:276
+#: admin/settings/mobile-skin/pager-settings.php:208
+#: admin/settings/mobile-skin/price-settings.php:208
+#: admin/settings/mobile-skin/title-settings.php:208
+#: admin/settings/widget-skin/category-link-settings.php:193
+#: admin/settings/widget-skin/category-link-settings.php:216
+#: admin/settings/widget-skin/category-link-settings.php:222
+#: admin/settings/widget-skin/category-link-settings.php:228
+#: admin/settings/widget-skin/category-link-settings.php:335
+#: admin/settings/widget-skin/category-link-settings.php:358
+#: admin/settings/widget-skin/category-link-settings.php:364
+#: admin/settings/widget-skin/category-link-settings.php:370
+#: admin/settings/widget-skin/control-settings.php:193
+#: admin/settings/widget-skin/control-settings.php:211
+#: admin/settings/widget-skin/control-settings.php:217
+#: admin/settings/widget-skin/pager-settings.php:193
+#: admin/settings/widget-skin/pager-settings.php:211
+#: admin/settings/widget-skin/pager-settings.php:217
+#: admin/settings/widget-skin/price-settings.php:193
+#: admin/settings/widget-skin/product-link-settings.php:193
+#: admin/settings/widget-skin/product-link-settings.php:216
+#: admin/settings/widget-skin/product-link-settings.php:222
+#: admin/settings/widget-skin/product-link-settings.php:228
+#: admin/settings/widget-skin/skin-settings.php:221
+#: admin/settings/widget-skin/skin-settings.php:239
+#: admin/settings/widget-skin/title-settings.php:193
+msgid "ON"
+msgstr ""
+
+#: admin/admin-interface.php:1359 admin/admin-interface.php:1449
+#: admin/admin-interface.php:1478
+#: admin/settings/card-skin/card-layout-settings.php:238
+#: admin/settings/card-skin/card-layout-settings.php:256
+#: admin/settings/card-skin/card-layout-settings.php:262
+#: admin/settings/card-skin/card-layout-settings.php:268
+#: admin/settings/card-skin/card-layout-settings.php:274
+#: admin/settings/card-skin/card-layout-settings.php:292
+#: admin/settings/card-skin/card-layout-settings.php:308
+#: admin/settings/card-skin/card-layout-settings.php:325
+#: admin/settings/card-skin/card-layout-settings.php:331
+#: admin/settings/card-skin/card-layout-settings.php:349
+#: admin/settings/card-skin/card-layout-settings.php:366
+#: admin/settings/card-skin/card-layout-settings.php:372
+#: admin/settings/card-skin/card-layout-settings.php:387
+#: admin/settings/card-skin/card-layout-settings.php:393
+#: admin/settings/card-skin/card-layout-settings.php:399
+#: admin/settings/card-skin/card-layout-settings.php:405
+#: admin/settings/card-skin/card-layout-settings.php:423
+#: admin/settings/card-skin/card-layout-settings.php:439
+#: admin/settings/card-skin/card-layout-settings.php:450
+#: admin/settings/card-skin/control-settings.php:209
+#: admin/settings/card-skin/control-settings.php:227
+#: admin/settings/card-skin/control-settings.php:233
+#: admin/settings/card-skin/description-settings.php:215
+#: admin/settings/card-skin/description-settings.php:221
+#: admin/settings/card-skin/description-settings.php:227
+#: admin/settings/card-skin/description-settings.php:233
+#: admin/settings/card-skin/footer-cell-settings.php:250
+#: admin/settings/card-skin/footer-cell-settings.php:256
+#: admin/settings/card-skin/footer-cell-settings.php:262
+#: admin/settings/card-skin/footer-cell-settings.php:268
+#: admin/settings/card-skin/pager-settings.php:209
+#: admin/settings/card-skin/pager-settings.php:227
+#: admin/settings/card-skin/pager-settings.php:233
+#: admin/settings/card-skin/price-settings.php:220
+#: admin/settings/card-skin/price-settings.php:226
+#: admin/settings/card-skin/price-settings.php:232
+#: admin/settings/card-skin/price-settings.php:238
+#: admin/settings/card-skin/skin-settings.php:221
+#: admin/settings/card-skin/skin-settings.php:243
+#: admin/settings/card-skin/title-settings.php:220
+#: admin/settings/card-skin/title-settings.php:226
+#: admin/settings/card-skin/title-settings.php:232
+#: admin/settings/card-skin/title-settings.php:238
+#: admin/settings/carousel/carousel-settings.php:210
+#: admin/settings/carousel/control-settings.php:209
+#: admin/settings/carousel/control-settings.php:227
+#: admin/settings/carousel/control-settings.php:233
+#: admin/settings/carousel/pager-settings.php:209
+#: admin/settings/carousel/pager-settings.php:227
+#: admin/settings/carousel/pager-settings.php:233
+#: admin/settings/mobile-skin/category-link-settings.php:209
+#: admin/settings/mobile-skin/category-link-settings.php:277
+#: admin/settings/mobile-skin/pager-settings.php:209
+#: admin/settings/mobile-skin/price-settings.php:209
+#: admin/settings/mobile-skin/title-settings.php:209
+#: admin/settings/widget-skin/category-link-settings.php:194
+#: admin/settings/widget-skin/category-link-settings.php:217
+#: admin/settings/widget-skin/category-link-settings.php:223
+#: admin/settings/widget-skin/category-link-settings.php:229
+#: admin/settings/widget-skin/category-link-settings.php:336
+#: admin/settings/widget-skin/category-link-settings.php:359
+#: admin/settings/widget-skin/category-link-settings.php:365
+#: admin/settings/widget-skin/category-link-settings.php:371
+#: admin/settings/widget-skin/control-settings.php:194
+#: admin/settings/widget-skin/control-settings.php:212
+#: admin/settings/widget-skin/control-settings.php:218
+#: admin/settings/widget-skin/pager-settings.php:194
+#: admin/settings/widget-skin/pager-settings.php:212
+#: admin/settings/widget-skin/pager-settings.php:218
+#: admin/settings/widget-skin/price-settings.php:194
+#: admin/settings/widget-skin/product-link-settings.php:194
+#: admin/settings/widget-skin/product-link-settings.php:217
+#: admin/settings/widget-skin/product-link-settings.php:223
+#: admin/settings/widget-skin/product-link-settings.php:229
+#: admin/settings/widget-skin/skin-settings.php:222
+#: admin/settings/widget-skin/skin-settings.php:240
+#: admin/settings/widget-skin/title-settings.php:194
+msgid "OFF"
+msgstr ""
+
+#: admin/admin-interface.php:1519
+msgid "Width"
+msgstr ""
+
+#: admin/admin-interface.php:1521
+#: admin/settings/card-skin/card-layout-settings.php:217
+#: admin/settings/widget-skin/dimensions-settings.php:201
+msgid "Height"
+msgstr ""
+
+#: admin/admin-interface.php:1523
+msgid "Hard Crop"
+msgstr ""
+
+#: admin/admin-interface.php:1600
+msgid "-- Default Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1611
+msgid "-- Google Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1652
+msgid "Preview your customized typography settings"
+msgstr ""
+
+#: admin/admin-interface.php:1786 admin/admin-interface.php:2045
+msgid "Preview your customized border settings"
+msgstr ""
+
+#: admin/admin-interface.php:1795 admin/admin-interface.php:2036
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin-interface.php:1796 admin/admin-interface.php:2037
+msgid "Square"
+msgstr ""
+
+#: admin/admin-interface.php:1806 admin/admin-interface.php:2050
+msgid "Top Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1826 admin/admin-interface.php:2070
+msgid "Top Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1846 admin/admin-interface.php:2090
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1866 admin/admin-interface.php:2110
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1959
+msgid "Preview your customized border styles settings"
+msgstr ""
+
+#: admin/admin-interface.php:2171
+msgid "YES"
+msgstr ""
+
+#: admin/admin-interface.php:2172
+msgid "NO"
+msgstr ""
+
+#: admin/admin-interface.php:2186
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2204
+msgid "Vertical Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2222
+msgid "Blur Distance"
+msgstr ""
+
+#: admin/admin-interface.php:2240
+msgid "Spread Size"
+msgstr ""
+
+#: admin/admin-interface.php:2258
+msgid "INNER"
+msgstr ""
+
+#: admin/admin-interface.php:2259
+msgid "OUTER"
+msgstr ""
+
+#: admin/admin-interface.php:2277
+msgid "Preview your customized box shadow settings"
+msgstr ""
+
+#: admin/admin-interface.php:2513
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin-interface.php:2514
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/admin-pages/admin-card-skin-page.php:63
+#: admin/admin-pages/admin-card-skin-page.php:64
+#: admin/settings/card-skin/skin-settings.php:205
+msgid "Card Skin"
+msgstr ""
+
+#: admin/admin-pages/admin-carousel-page.php:63
+#: admin/admin-pages/admin-carousel-page.php:64
+msgid "Carousel"
+msgstr ""
+
+#: admin/admin-pages/admin-carousel-page.php:118
+msgid "WooCommerce Carousel and Slider Version"
+msgstr ""
+
+#: admin/admin-pages/admin-mobile-skin-page.php:63
+#: admin/admin-pages/admin-mobile-skin-page.php:64
+#: admin/settings/card-skin/skin-settings.php:234
+#: admin/settings/mobile-skin/card-container-settings.php:195
+#: admin/settings/widget-skin/skin-settings.php:231
+msgid "Touch Mobile Skin"
+msgstr ""
+
+#: admin/admin-pages/admin-mobile-skin-page.php:119
+#: admin/settings/card-skin/skin-settings.php:188
+#: admin/settings/widget-skin/skin-settings.php:189
+msgid "WooCommerce Product Slider Version"
+msgstr ""
+
+#: admin/admin-pages/admin-widget-skin-page.php:63
+#: admin/admin-pages/admin-widget-skin-page.php:64
+#: shortcodes/class-slider-shortcodes.php:32
+msgid "Product Slider"
+msgstr ""
+
+#: admin/admin-pages/admin-widget-skin-page.php:78
+#: admin/admin-pages/admin-widget-skin-page.php:79
+#: admin/settings/widget-skin/skin-settings.php:206
+msgid "Widget Skin"
+msgstr ""
+
+#: admin/admin-ui.php:139
+#, php-format
+msgid "Settings inside this yellow border are %s Features."
+msgstr ""
+
+#: admin/admin-ui.php:141
+#, php-format
+msgid ""
+"Upgrading to the <a href=\"%s\" target=\"_blank\">%s</a> plugin activates "
+"these settings."
+msgstr ""
+
+#: admin/admin-ui.php:143 admin/admin-ui.php:145
+msgid "Widget Product Slider Pro Version"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:149
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:169
+msgid "View File"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:188
+msgid "Use this Image"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:189
+msgid "Use as"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:199
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:81
+msgid "Card Layout Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:82
+msgid "Error: Card Layout Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:83
+msgid "Card Layout Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:153
+#: admin/tabs/card-skin/card-layout-tab.php:78
+msgid "Card Layout"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:198
+msgid "Product Card - Image Height"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:201
+#: admin/settings/widget-skin/dimensions-settings.php:185
+msgid "Tall Type"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:208
+#: admin/settings/widget-skin/dimensions-settings.php:192
+msgid "Fixed"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:209
+#: admin/settings/widget-skin/dimensions-settings.php:193
+msgid "Dynamic"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:227
+msgid "Product Card - Product Title"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:230
+msgid "Product Title"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:246
+msgid "Product Title Line Wrap"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:247
+msgid ""
+"Set the number of lines that the Product Title can wrap to on the Product "
+"Card."
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:254
+msgid "Auto height"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:260
+#: admin/settings/card-skin/card-layout-settings.php:385
+msgid "1 Line"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:266
+#: admin/settings/card-skin/card-layout-settings.php:391
+msgid "2 Lines"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:272
+#: admin/settings/card-skin/card-layout-settings.php:397
+msgid "3 Lines"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:281
+msgid "Product Card - Product Rating"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:284
+msgid "Product Rating"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:297
+msgid "Product Card - Product Price"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:300
+msgid "Product Price"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:316
+msgid "Price Position on Product Card"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:323
+msgid "Under Title"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:329
+msgid "Under Description"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:338
+msgid "Product Card - Product Description Extract"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:341
+msgid "Product Description Extract"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:357
+msgid "Pull Product Description From"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:364
+msgid "Product Short Description"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:370
+msgid "Full Description"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:377
+msgid "Product Description Line Wrap"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:378
+msgid ""
+"Set the number of lines that the Product description text can wrap to on "
+"Product Card."
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:403
+msgid "4 Lines"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:412
+msgid "Product Card - Product Footer Cell"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:415
+msgid "Product Footer Cell"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:431
+msgid "Product Category"
+msgstr ""
+
+#: admin/settings/card-skin/card-layout-settings.php:442
+msgid "Product Tag"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:81
+msgid "Card Style Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:82
+msgid "Error: Card Style Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:83
+msgid "Card Style Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:153
+#: admin/tabs/card-skin/card-style-tab.php:78
+msgid "Card Style"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:197
+msgid "Product Card Styling"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:201
+msgid "Product Card Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:202
+#: admin/settings/card-skin/card-style-settings.php:226
+#: admin/settings/card-skin/footer-cell-settings.php:200
+#: admin/settings/card-skin/pager-settings.php:265
+#: admin/settings/card-skin/pager-settings.php:295
+#: admin/settings/card-skin/pager-settings.php:315
+#: admin/settings/carousel/container-settings.php:200
+#: admin/settings/carousel/pager-settings.php:265
+#: admin/settings/carousel/pager-settings.php:295
+#: admin/settings/carousel/pager-settings.php:315
+#: admin/settings/mobile-skin/card-container-settings.php:206
+#: admin/settings/mobile-skin/pager-settings.php:263
+#: admin/settings/widget-skin/category-link-settings.php:247
+#: admin/settings/widget-skin/category-link-settings.php:389
+#: admin/settings/widget-skin/pager-settings.php:250
+#: admin/settings/widget-skin/pager-settings.php:280
+#: admin/settings/widget-skin/pager-settings.php:300
+#: admin/settings/widget-skin/product-link-settings.php:247
+msgid "Default"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:208
+msgid "Product Card Border"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:214
+msgid "Product Card Border Shadow"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:221
+msgid "Product Card Image Container"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:225
+msgid "Image Container Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:232
+msgid "Image Container Border"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:238
+msgid "Image Container Border Shadow"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:244
+msgid "Image Border Margin (Outside)"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:250
+#: admin/settings/card-skin/card-style-settings.php:279
+#: admin/settings/card-skin/description-settings.php:244
+#: admin/settings/card-skin/footer-cell-settings.php:218
+#: admin/settings/card-skin/price-settings.php:249
+#: admin/settings/card-skin/title-settings.php:249
+#: admin/settings/carousel/container-settings.php:224
+#: admin/settings/carousel/container-settings.php:253
+#: admin/settings/carousel/container-settings.php:287
+#: admin/settings/mobile-skin/card-container-settings.php:230
+#: admin/settings/mobile-skin/card-container-settings.php:259
+#: admin/settings/mobile-skin/category-link-settings.php:241
+#: admin/settings/mobile-skin/category-link-settings.php:309
+#: admin/settings/mobile-skin/pager-settings.php:239
+#: admin/settings/mobile-skin/price-settings.php:236
+#: admin/settings/mobile-skin/title-settings.php:229
+#: admin/settings/widget-skin/category-link-settings.php:271
+#: admin/settings/widget-skin/category-link-settings.php:300
+#: admin/settings/widget-skin/category-link-settings.php:413
+#: admin/settings/widget-skin/category-link-settings.php:442
+#: admin/settings/widget-skin/price-settings.php:220
+#: admin/settings/widget-skin/product-link-settings.php:271
+#: admin/settings/widget-skin/product-link-settings.php:300
+#: admin/settings/widget-skin/title-settings.php:231
+msgid "Top"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:255
+#: admin/settings/card-skin/card-style-settings.php:284
+#: admin/settings/card-skin/description-settings.php:249
+#: admin/settings/card-skin/footer-cell-settings.php:223
+#: admin/settings/card-skin/price-settings.php:254
+#: admin/settings/card-skin/title-settings.php:254
+#: admin/settings/carousel/container-settings.php:229
+#: admin/settings/carousel/container-settings.php:258
+#: admin/settings/carousel/container-settings.php:292
+#: admin/settings/mobile-skin/card-container-settings.php:235
+#: admin/settings/mobile-skin/card-container-settings.php:264
+#: admin/settings/mobile-skin/category-link-settings.php:246
+#: admin/settings/mobile-skin/category-link-settings.php:314
+#: admin/settings/mobile-skin/pager-settings.php:244
+#: admin/settings/mobile-skin/price-settings.php:241
+#: admin/settings/mobile-skin/title-settings.php:234
+#: admin/settings/widget-skin/category-link-settings.php:276
+#: admin/settings/widget-skin/category-link-settings.php:305
+#: admin/settings/widget-skin/category-link-settings.php:418
+#: admin/settings/widget-skin/category-link-settings.php:447
+#: admin/settings/widget-skin/price-settings.php:225
+#: admin/settings/widget-skin/product-link-settings.php:276
+#: admin/settings/widget-skin/product-link-settings.php:305
+#: admin/settings/widget-skin/title-settings.php:236
+msgid "Bottom"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:261
+#: admin/settings/card-skin/card-style-settings.php:290
+#: admin/settings/card-skin/description-settings.php:213
+#: admin/settings/card-skin/description-settings.php:255
+#: admin/settings/card-skin/footer-cell-settings.php:229
+#: admin/settings/card-skin/footer-cell-settings.php:248
+#: admin/settings/card-skin/price-settings.php:218
+#: admin/settings/card-skin/price-settings.php:260
+#: admin/settings/card-skin/title-settings.php:218
+#: admin/settings/card-skin/title-settings.php:260
+#: admin/settings/carousel/container-settings.php:235
+#: admin/settings/carousel/container-settings.php:264
+#: admin/settings/carousel/container-settings.php:298
+#: admin/settings/mobile-skin/card-container-settings.php:241
+#: admin/settings/mobile-skin/card-container-settings.php:270
+#: admin/settings/mobile-skin/category-link-settings.php:252
+#: admin/settings/mobile-skin/category-link-settings.php:320
+#: admin/settings/mobile-skin/pager-settings.php:250
+#: admin/settings/mobile-skin/price-settings.php:247
+#: admin/settings/mobile-skin/title-settings.php:240
+#: admin/settings/widget-skin/category-link-settings.php:215
+#: admin/settings/widget-skin/category-link-settings.php:282
+#: admin/settings/widget-skin/category-link-settings.php:311
+#: admin/settings/widget-skin/category-link-settings.php:357
+#: admin/settings/widget-skin/category-link-settings.php:424
+#: admin/settings/widget-skin/category-link-settings.php:453
+#: admin/settings/widget-skin/price-settings.php:231
+#: admin/settings/widget-skin/product-link-settings.php:215
+#: admin/settings/widget-skin/product-link-settings.php:282
+#: admin/settings/widget-skin/product-link-settings.php:311
+#: admin/settings/widget-skin/title-settings.php:242
+#: shortcodes/class-slider-shortcodes.php:170
+msgid "Left"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:267
+#: admin/settings/card-skin/card-style-settings.php:296
+#: admin/settings/card-skin/description-settings.php:225
+#: admin/settings/card-skin/description-settings.php:261
+#: admin/settings/card-skin/footer-cell-settings.php:235
+#: admin/settings/card-skin/footer-cell-settings.php:260
+#: admin/settings/card-skin/price-settings.php:230
+#: admin/settings/card-skin/price-settings.php:266
+#: admin/settings/card-skin/title-settings.php:230
+#: admin/settings/card-skin/title-settings.php:266
+#: admin/settings/carousel/container-settings.php:241
+#: admin/settings/carousel/container-settings.php:270
+#: admin/settings/carousel/container-settings.php:304
+#: admin/settings/mobile-skin/card-container-settings.php:247
+#: admin/settings/mobile-skin/card-container-settings.php:276
+#: admin/settings/mobile-skin/category-link-settings.php:258
+#: admin/settings/mobile-skin/category-link-settings.php:326
+#: admin/settings/mobile-skin/pager-settings.php:256
+#: admin/settings/mobile-skin/price-settings.php:253
+#: admin/settings/mobile-skin/title-settings.php:246
+#: admin/settings/widget-skin/category-link-settings.php:227
+#: admin/settings/widget-skin/category-link-settings.php:288
+#: admin/settings/widget-skin/category-link-settings.php:317
+#: admin/settings/widget-skin/category-link-settings.php:369
+#: admin/settings/widget-skin/category-link-settings.php:430
+#: admin/settings/widget-skin/category-link-settings.php:459
+#: admin/settings/widget-skin/price-settings.php:237
+#: admin/settings/widget-skin/product-link-settings.php:227
+#: admin/settings/widget-skin/product-link-settings.php:288
+#: admin/settings/widget-skin/product-link-settings.php:317
+#: admin/settings/widget-skin/title-settings.php:248
+#: shortcodes/class-slider-shortcodes.php:171
+msgid "Right"
+msgstr ""
+
+#: admin/settings/card-skin/card-style-settings.php:273
+msgid "Image Border Padding (Inside)"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:81
+#: admin/settings/carousel/control-settings.php:81
+#: admin/settings/widget-skin/control-settings.php:81
+msgid "Controls Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:82
+#: admin/settings/carousel/control-settings.php:82
+#: admin/settings/widget-skin/control-settings.php:82
+msgid "Error: Controls Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:83
+#: admin/settings/carousel/control-settings.php:83
+#: admin/settings/widget-skin/control-settings.php:83
+msgid "Controls Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:153
+#: admin/settings/carousel/control-settings.php:153
+#: admin/settings/widget-skin/control-settings.php:138
+#: admin/tabs/card-skin/control-tab.php:78
+#: admin/tabs/carousel/control-tab.php:78
+#: admin/tabs/widget-skin/control-tab.php:78
+msgid "Controls"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:197
+#: admin/settings/carousel/control-settings.php:197
+#: admin/settings/widget-skin/control-settings.php:182
+msgid "Controls Settings"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:201
+#: admin/settings/carousel/control-settings.php:201
+#: admin/settings/widget-skin/control-settings.php:186
+msgid "Slider Control"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:217
+#: admin/settings/carousel/control-settings.php:217
+#: admin/settings/widget-skin/control-settings.php:202
+msgid "Control Transition"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:225
+#: admin/settings/card-skin/pager-settings.php:225
+#: admin/settings/carousel/control-settings.php:225
+#: admin/settings/carousel/pager-settings.php:225
+#: admin/settings/widget-skin/control-settings.php:210
+#: admin/settings/widget-skin/pager-settings.php:210
+msgid "Alway show when slider loaded"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:231
+#: admin/settings/card-skin/pager-settings.php:231
+#: admin/settings/carousel/control-settings.php:231
+#: admin/settings/carousel/pager-settings.php:231
+#: admin/settings/widget-skin/control-settings.php:216
+#: admin/settings/widget-skin/pager-settings.php:216
+msgid "Show when hover on slider container"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:238
+#: admin/settings/carousel/control-settings.php:238
+#: admin/settings/widget-skin/control-settings.php:223
+msgid "Previous Icon"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:244
+#: admin/settings/carousel/control-settings.php:244
+#: admin/settings/widget-skin/control-settings.php:229
+msgid "Next Icon"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:250
+#: admin/settings/carousel/control-settings.php:250
+#: admin/settings/widget-skin/control-settings.php:235
+msgid "Play Icon"
+msgstr ""
+
+#: admin/settings/card-skin/control-settings.php:256
+#: admin/settings/carousel/control-settings.php:256
+#: admin/settings/widget-skin/control-settings.php:241
+msgid "Pause Icon"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:81
+msgid "Product Description Style successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:82
+msgid "Error: Product Style Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:83
+msgid "Product Description Style successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:151
+msgid "Product Description Style"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:195
+msgid "Product Card - Product Description Style"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:199
+msgid "Product Description Font"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:206
+msgid "Product Description Alignment"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:219
+#: admin/settings/card-skin/footer-cell-settings.php:254
+#: admin/settings/card-skin/price-settings.php:224
+#: admin/settings/card-skin/title-settings.php:224
+#: admin/settings/widget-skin/category-link-settings.php:221
+#: admin/settings/widget-skin/category-link-settings.php:363
+#: admin/settings/widget-skin/product-link-settings.php:221
+#: shortcodes/class-slider-shortcodes.php:157
+msgid "Center"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:231
+#: admin/settings/card-skin/footer-cell-settings.php:266
+#: admin/settings/card-skin/price-settings.php:236
+#: admin/settings/card-skin/title-settings.php:236
+msgid "Justify"
+msgstr ""
+
+#: admin/settings/card-skin/description-settings.php:238
+msgid "Product Description (extract) Margin"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:81
+msgid "Footer Cell Style successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:82
+msgid "Error: Footer Cell Style can not save."
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:83
+msgid "Footer Cell Style successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:151
+#: admin/tabs/card-skin/footer-cell-tab.php:78
+msgid "Footer Cell"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:195
+msgid "Product Card - Footer Cell Style"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:199
+msgid "Footer Cell Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:206
+msgid "Footer Cell Top Border"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:212
+msgid "Cell Border Padding (Inside)"
+msgstr ""
+
+#: admin/settings/card-skin/footer-cell-settings.php:241
+msgid "Footer Cell Content Alignment"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:81
+#: admin/settings/carousel/pager-settings.php:81
+#: admin/settings/mobile-skin/pager-settings.php:81
+#: admin/settings/widget-skin/pager-settings.php:81
+msgid "Pager Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:82
+#: admin/settings/carousel/pager-settings.php:82
+#: admin/settings/mobile-skin/pager-settings.php:82
+#: admin/settings/widget-skin/pager-settings.php:82
+msgid "Error: Pager Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:83
+#: admin/settings/carousel/pager-settings.php:83
+#: admin/settings/mobile-skin/pager-settings.php:83
+#: admin/settings/widget-skin/pager-settings.php:83
+msgid "Pager Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:153
+#: admin/settings/carousel/pager-settings.php:153
+#: admin/settings/mobile-skin/pager-settings.php:153
+#: admin/settings/widget-skin/pager-settings.php:138
+#: admin/tabs/card-skin/pager-tab.php:78 admin/tabs/carousel/pager-tab.php:78
+#: admin/tabs/mobile-skin/pager-tab.php:78
+#: admin/tabs/widget-skin/pager-tab.php:78
+msgid "Pager"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:197
+#: admin/settings/carousel/pager-settings.php:197
+#: admin/settings/mobile-skin/pager-settings.php:197
+#: admin/settings/widget-skin/pager-settings.php:182
+msgid "Pager Settings"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:201
+#: admin/settings/carousel/pager-settings.php:201
+#: admin/settings/mobile-skin/pager-settings.php:201
+#: admin/settings/widget-skin/pager-settings.php:186
+msgid "Slider Pager"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:217
+#: admin/settings/carousel/pager-settings.php:217
+#: admin/settings/widget-skin/pager-settings.php:202
+msgid "Pager Transition"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:238
+#: admin/settings/carousel/pager-settings.php:238
+#: admin/settings/widget-skin/pager-settings.php:223
+msgid "Pager Direction"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:245
+#: admin/settings/carousel/pager-settings.php:245
+#: admin/settings/widget-skin/pager-settings.php:230
+msgid "Horizontal"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:246
+#: admin/settings/carousel/pager-settings.php:246
+#: admin/settings/widget-skin/pager-settings.php:231
+msgid "Vertical"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:249
+#: admin/settings/carousel/pager-settings.php:249
+#: admin/settings/mobile-skin/pager-settings.php:217
+#: admin/settings/widget-skin/pager-settings.php:234
+msgid "Pager Position"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:254
+#: admin/settings/carousel/pager-settings.php:254
+#: admin/settings/mobile-skin/pager-settings.php:222
+#: admin/settings/widget-skin/pager-settings.php:239
+#: classes/class-slider-functions.php:152
+msgid "Top Left"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:255
+#: admin/settings/carousel/pager-settings.php:255
+#: admin/settings/mobile-skin/pager-settings.php:223
+#: admin/settings/widget-skin/pager-settings.php:240
+#: classes/class-slider-functions.php:153
+msgid "Top Center"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:256
+#: admin/settings/carousel/pager-settings.php:256
+#: admin/settings/mobile-skin/pager-settings.php:224
+#: admin/settings/widget-skin/pager-settings.php:241
+#: classes/class-slider-functions.php:154
+msgid "Top Right"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:257
+#: admin/settings/carousel/pager-settings.php:257
+#: admin/settings/mobile-skin/pager-settings.php:225
+#: admin/settings/widget-skin/pager-settings.php:242
+#: classes/class-slider-functions.php:158
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:258
+#: admin/settings/carousel/pager-settings.php:258
+#: admin/settings/mobile-skin/pager-settings.php:226
+#: admin/settings/widget-skin/pager-settings.php:243
+#: classes/class-slider-functions.php:159
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:259
+#: admin/settings/carousel/pager-settings.php:259
+#: admin/settings/mobile-skin/pager-settings.php:227
+#: admin/settings/widget-skin/pager-settings.php:244
+#: classes/class-slider-functions.php:160
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:264
+#: admin/settings/carousel/pager-settings.php:264
+#: admin/settings/mobile-skin/pager-settings.php:262
+#: admin/settings/widget-skin/pager-settings.php:249
+msgid "Pager Container Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:271
+#: admin/settings/carousel/pager-settings.php:271
+#: admin/settings/mobile-skin/pager-settings.php:269
+#: admin/settings/widget-skin/pager-settings.php:256
+msgid "Pager Container Background Transparency"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:272
+#: admin/settings/carousel/pager-settings.php:272
+#: admin/settings/mobile-skin/pager-settings.php:270
+#: admin/settings/widget-skin/pager-settings.php:257
+msgid "Scale - 0 = 100% transparent - 100 = 100% Solid Colour."
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:281
+#: admin/settings/carousel/pager-settings.php:281
+#: admin/settings/mobile-skin/pager-settings.php:279
+#: admin/settings/widget-skin/pager-settings.php:266
+msgid "Pager Container Border"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:287
+#: admin/settings/carousel/pager-settings.php:287
+#: admin/settings/mobile-skin/pager-settings.php:285
+#: admin/settings/widget-skin/pager-settings.php:272
+msgid "Pager Container Shadow"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:294
+#: admin/settings/carousel/pager-settings.php:294
+#: admin/settings/widget-skin/pager-settings.php:279
+msgid "Pager Bullet Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:301
+#: admin/settings/carousel/pager-settings.php:301
+#: admin/settings/widget-skin/pager-settings.php:286
+msgid "Pager Bullet Border"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:307
+#: admin/settings/carousel/pager-settings.php:307
+#: admin/settings/widget-skin/pager-settings.php:292
+msgid "Pager Bullet Shadow"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:314
+#: admin/settings/carousel/pager-settings.php:314
+#: admin/settings/widget-skin/pager-settings.php:299
+msgid "Pager Viewing Bullet Background Colour"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:321
+#: admin/settings/carousel/pager-settings.php:321
+#: admin/settings/widget-skin/pager-settings.php:306
+msgid "Pager Viewing Bullet Border"
+msgstr ""
+
+#: admin/settings/card-skin/pager-settings.php:327
+#: admin/settings/carousel/pager-settings.php:327
+#: admin/settings/widget-skin/pager-settings.php:312
+msgid "Pager Viewing Bullet Shadow"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:81
+msgid "Price Style successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:82
+msgid "Error: Price Style can not save."
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:83
+msgid "Price Style successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:151
+#: admin/settings/mobile-skin/price-settings.php:153
+#: admin/settings/mobile-skin/price-settings.php:201
+#: admin/settings/widget-skin/price-settings.php:138
+#: admin/settings/widget-skin/price-settings.php:186
+#: admin/tabs/card-skin/price-tab.php:78
+#: admin/tabs/mobile-skin/price-tab.php:78
+#: admin/tabs/widget-skin/price-tab.php:78
+msgid "Price"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:195
+msgid "Product Card - Product Price Style"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:199
+#: admin/settings/mobile-skin/price-settings.php:218
+#: admin/settings/widget-skin/price-settings.php:202
+msgid "Price Font"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:205
+#: admin/settings/mobile-skin/price-settings.php:224
+#: admin/settings/widget-skin/price-settings.php:208
+msgid "Old Price Font"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:211
+msgid "Price Alignment"
+msgstr ""
+
+#: admin/settings/card-skin/price-settings.php:243
+#: admin/settings/mobile-skin/price-settings.php:230
+#: admin/settings/widget-skin/price-settings.php:214
+msgid "Price Font Margin"
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:81
+#: admin/settings/widget-skin/skin-settings.php:81
+msgid "Skin Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:82
+#: admin/settings/widget-skin/skin-settings.php:82
+msgid "Error: Skin Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:83
+#: admin/settings/widget-skin/skin-settings.php:83
+msgid "Skin Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:150
+#: admin/settings/widget-skin/skin-settings.php:151
+#: admin/tabs/card-skin/skin-settings-tab.php:78
+#: admin/tabs/widget-skin/skin-settings-tab.php:78
+msgid "Skin Settings"
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:208
+msgid ""
+"Use these Card Skin settings to create your own custom product card style "
+"and layout which can be selected when creating a Slider by Widget or via the "
+"Slider Shortcode function. The Product card style and layout that is created "
+"here is also used as the product display in the Carousel."
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:212
+#: admin/settings/carousel/carousel-settings.php:201
+#: admin/settings/widget-skin/skin-settings.php:212
+msgid "Slider Touch"
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:213
+#: admin/settings/carousel/carousel-settings.php:202
+#: admin/settings/widget-skin/skin-settings.php:213
+msgid "Support for Mobile"
+msgstr ""
+
+#: admin/settings/card-skin/skin-settings.php:235
+#: admin/settings/widget-skin/skin-settings.php:232
+msgid "Active custom mobile skin"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:81
+#: admin/settings/mobile-skin/title-settings.php:81
+#: admin/settings/widget-skin/title-settings.php:81
+msgid "Product Name Settings successfully saved."
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:82
+#: admin/settings/mobile-skin/title-settings.php:82
+#: admin/settings/widget-skin/title-settings.php:82
+msgid "Error: Product Name Settings can not save."
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:83
+#: admin/settings/mobile-skin/title-settings.php:83
+#: admin/settings/widget-skin/title-settings.php:83
+msgid "Product Name Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:151
+#: admin/settings/mobile-skin/title-settings.php:153
+#: admin/settings/mobile-skin/title-settings.php:201
+#: admin/settings/widget-skin/title-settings.php:138
+#: admin/settings/widget-skin/title-settings.php:186
+#: admin/tabs/card-skin/title-tab.php:78
+#: admin/tabs/mobile-skin/title-tab.php:78
+#: admin/tabs/widget-skin/title-tab.php:78
+msgid "Product Name"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:195
+msgid "Product Card - Product Name Style"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:199
+#: admin/settings/widget-skin/title-settings.php:213
+msgid "Product Name Font"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:205
+#: admin/settings/widget-skin/title-settings.php:219
+msgid "Product Name Hover Colour"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:211
+msgid "Product Name Alignment"
+msgstr ""
+
+#: admin/settings/card-skin/title-settings.php:243
+#: admin/settings/widget-skin/title-settings.php:225
+msgid "Product Name Margin"
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:81
+msgid "Carousel Settings successfully saved."
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:82
+msgid "Error: Carousel Settings can not save."
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:83
+msgid "Carousel Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:151
+#: admin/tabs/carousel/carousel-settings-tab.php:78
+msgid "Carousel Settings"
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:195
+msgid "Carousel Display Cards"
+msgstr ""
+
+#: admin/settings/carousel/carousel-settings.php:197
+#, php-format
+msgid ""
+"The Carousel shows products with the Product Card style and layout that you "
+"have set in the <a href=\"%s\">Card Skin menu</a>"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:81
+msgid "Container Settings successfully saved."
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:82
+msgid "Error: Container Settings can not save."
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:83
+msgid "Container Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:151
+msgid "Container"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:196
+#: admin/tabs/carousel/container-tab.php:78
+msgid "Carousel Container"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:199
+msgid "Container Background Colour"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:206
+msgid "Container Border"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:212
+#: admin/settings/widget-skin/product-link-settings.php:259
+msgid "Container Border Shadow"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:218
+#: admin/settings/mobile-skin/card-container-settings.php:224
+#: admin/settings/widget-skin/category-link-settings.php:265
+#: admin/settings/widget-skin/category-link-settings.php:407
+#: admin/settings/widget-skin/product-link-settings.php:265
+msgid "Border Margin (Outside)"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:247
+#: admin/settings/mobile-skin/card-container-settings.php:253
+#: admin/settings/widget-skin/category-link-settings.php:294
+#: admin/settings/widget-skin/category-link-settings.php:436
+#: admin/settings/widget-skin/product-link-settings.php:294
+msgid "Border Padding (Inside)"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:278
+msgid "Carousel Item Settings"
+msgstr ""
+
+#: admin/settings/carousel/container-settings.php:281
+msgid "Product Card Margin (Outside)"
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:81
+msgid "Card Container Settings successfully saved."
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:82
+msgid "Error: Card Container Settings can not save."
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:83
+msgid "Card Container Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:151
+#: admin/tabs/mobile-skin/card-container-tab.php:78
+msgid "Card Container"
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:197
+msgid ""
+"When the Slider Touch feature is activated on the Widget and Card Skins it "
+"auto shows the images in mobiles with the Touch Swipe feature. Use these "
+"Touch Mobile settings to create an advanced Touch Swipe Skin and display in "
+"mobile devices."
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:201
+msgid "Card Container Settings"
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:205
+msgid "Card Container Background Colour"
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:212
+msgid "Card Container Border"
+msgstr ""
+
+#: admin/settings/mobile-skin/card-container-settings.php:218
+msgid "Border Shadow"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:81
+#: admin/settings/widget-skin/category-link-settings.php:81
+msgid "View All Settings successfully saved."
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:82
+#: admin/settings/widget-skin/category-link-settings.php:82
+msgid "Error: View All Settings can not save."
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:83
+#: admin/settings/widget-skin/category-link-settings.php:83
+msgid "View All Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:153
+#: admin/settings/widget-skin/category-link-settings.php:138
+#: admin/tabs/mobile-skin/category-link-tab.php:78
+#: admin/tabs/widget-skin/category-link-tab.php:78
+msgid "View All"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:197
+#: admin/settings/widget-skin/category-link-settings.php:182
+msgid "Category Link Settings"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:201
+#: admin/settings/widget-skin/category-link-settings.php:186
+msgid "Category Link"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:217
+#: admin/settings/widget-skin/category-link-settings.php:202
+msgid "Category Link Text"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:220
+#: admin/settings/widget-skin/category-link-settings.php:205
+msgid "View all Products in this Category"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:223
+#: admin/settings/widget-skin/category-link-settings.php:234
+msgid "Category Link Font"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:229
+#: admin/settings/widget-skin/category-link-settings.php:240
+msgid "Category Link Hover Colour"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:235
+msgid "Category Link Margin"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:265
+#: admin/settings/widget-skin/category-link-settings.php:324
+msgid "Tag Link Settings"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:269
+#: admin/settings/widget-skin/category-link-settings.php:328
+msgid "Tag Link"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:285
+#: admin/settings/widget-skin/category-link-settings.php:344
+msgid "Tag Link Text"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:288
+#: admin/settings/widget-skin/category-link-settings.php:347
+msgid "View all Products in this Tag"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:291
+#: admin/settings/widget-skin/category-link-settings.php:376
+msgid "Tag Link Font"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:297
+#: admin/settings/widget-skin/category-link-settings.php:382
+msgid "Tag Link Hover Colour"
+msgstr ""
+
+#: admin/settings/mobile-skin/category-link-settings.php:303
+msgid "Tag Link Margin"
+msgstr ""
+
+#: admin/settings/mobile-skin/pager-settings.php:233
+msgid "Pager Container Padding"
+msgstr ""
+
+#: admin/settings/mobile-skin/pager-settings.php:292
+msgid "Pager Font"
+msgstr ""
+
+#: admin/settings/mobile-skin/price-settings.php:81
+#: admin/settings/widget-skin/price-settings.php:81
+msgid "Price Settings successfully saved."
+msgstr ""
+
+#: admin/settings/mobile-skin/price-settings.php:82
+#: admin/settings/widget-skin/price-settings.php:82
+msgid "Error: Price Settings can not save."
+msgstr ""
+
+#: admin/settings/mobile-skin/price-settings.php:83
+#: admin/settings/widget-skin/price-settings.php:83
+msgid "Price Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/mobile-skin/price-settings.php:197
+#: admin/settings/widget-skin/price-settings.php:182
+msgid "Price Settings"
+msgstr ""
+
+#: admin/settings/mobile-skin/title-settings.php:197
+#: admin/settings/widget-skin/title-settings.php:182
+msgid "Product Name Settings"
+msgstr ""
+
+#: admin/settings/mobile-skin/title-settings.php:217
+msgid "Title Font"
+msgstr ""
+
+#: admin/settings/mobile-skin/title-settings.php:223
+msgid "Title Margin"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:208
+msgid "Category Link Alignment"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:246
+msgid "Category Link Container Background Colour"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:253
+msgid "Category Link Container Border"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:259
+msgid "Category Link Container Shadow"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:350
+msgid "Tag Link Alignment"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:388
+msgid "Tag Link Container Background Colour"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:395
+msgid "Tag Link Container Border"
+msgstr ""
+
+#: admin/settings/widget-skin/category-link-settings.php:401
+msgid "Tag Link Container Shadow"
+msgstr ""
+
+#: admin/settings/widget-skin/dimensions-settings.php:81
+msgid "Dimensions Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-skin/dimensions-settings.php:82
+msgid "Error: Dimensions Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-skin/dimensions-settings.php:83
+msgid "Dimensions Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-skin/dimensions-settings.php:138
+#: admin/tabs/widget-skin/dimensions-tab.php:78
+msgid "Dimensions"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:81
+msgid "View Product Link Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:82
+msgid "Error: View Product Link Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:83
+msgid "View Product Link Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:138
+#: admin/settings/widget-skin/product-link-settings.php:186
+#: admin/tabs/widget-skin/product-link-tab.php:78
+msgid "View Product"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:182
+msgid "View Product Link Settings"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:202
+msgid "View Product Text"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:205
+msgid "View this Product"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:208
+msgid "View Product Alignment"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:234
+msgid "View Product Font"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:240
+msgid "View Product Hover Colour"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:246
+msgid "View Product Container Background Colour"
+msgstr ""
+
+#: admin/settings/widget-skin/product-link-settings.php:253
+msgid "View Product Container Border"
+msgstr ""
+
+#: admin/settings/widget-skin/skin-settings.php:208
+msgid ""
+"Use these Widget Skin settings to create your own custom Widget Slider Skin "
+"style and layout. Skins are selected and applied to every product slider "
+"when creating a Widget Slider or embedding in a post or page by the Slider "
+"shortcode feature."
+msgstr ""
+
+#: admin/settings/widget-skin/title-settings.php:202
+msgid "Product Name Position"
+msgstr ""
+
+#: admin/settings/widget-skin/title-settings.php:207
+msgid "Above Slider"
+msgstr ""
+
+#: admin/settings/widget-skin/title-settings.php:208
+msgid "Below Slider"
+msgstr ""
+
+#: admin/tabs/card-skin/description-tab.php:78
+msgid "Description"
+msgstr ""
+
+#: classes/class-slider-display.php:124
+msgid "Prev"
+msgstr ""
+
+#: classes/class-slider-display.php:125
+msgid "Next"
+msgstr ""
+
+#: classes/class-slider-display.php:126
+msgid "Pause"
+msgstr ""
+
+#: classes/class-slider-display.php:127
+msgid "Play"
+msgstr ""
+
+#: classes/class-slider-functions.php:87
+#: shortcodes/class-slider-shortcodes.php:154
+msgid "None"
+msgstr ""
+
+#: classes/class-slider-functions.php:88
+#: classes/class-slider-functions.php:151
+msgid "Random"
+msgstr ""
+
+#: classes/class-slider-functions.php:89
+#: classes/class-slider-functions.php:102
+msgid "Fade"
+msgstr ""
+
+#: classes/class-slider-functions.php:90
+#: classes/class-slider-functions.php:103
+msgid "Fade Out"
+msgstr ""
+
+#: classes/class-slider-functions.php:91
+#: classes/class-slider-functions.php:104
+msgid "Scroll Horizontal"
+msgstr ""
+
+#: classes/class-slider-functions.php:92
+#: classes/class-slider-functions.php:105
+msgid "Scroll Vertical"
+msgstr ""
+
+#: classes/class-slider-functions.php:93
+msgid "Flip Horizontal"
+msgstr ""
+
+#: classes/class-slider-functions.php:94
+msgid "Flip Vertical"
+msgstr ""
+
+#: classes/class-slider-functions.php:155
+msgid "Center Left"
+msgstr ""
+
+#: classes/class-slider-functions.php:156
+msgid "Center Center"
+msgstr ""
+
+#: classes/class-slider-functions.php:157
+msgid "Center Right"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:135
+msgid "Thanks for choosing the WooCommerce Widget Product Slider."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:136
+msgid ""
+"All of that plugins features have been activated and are ready for you to "
+"use."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:137
+msgid "What is the Yellow border sections about?"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:138
+msgid ""
+"Inside the Yellow border you will see the settings for the 3 available "
+"upgrade versions for the lite version. You can see the settings but they are "
+"not active."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:140
+msgid "Upgrades Available For more Functionality"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:142
+msgid "WooCommerce Widget Product Slider"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:143
+msgid "Activates the beautiful Product Card Skin."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:144
+msgid "Create Sliders from Product tags."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:145
+msgid "Create Sliders from ON-SALE feature."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:146
+msgid "Create Sliders from Featured products."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:149
+msgid "WooCommerce Product Slider"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:150
+msgid "Includes all the features of lesser versions."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:151
+msgid "Activates Touch Mobile Skin."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:152
+msgid "Superb presentation on mobile devices."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:153
+msgid "Activates adding sliders by shortcode."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:156
+msgid "WooCommerce Carousel and Slider"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:157
+msgid "Top of the range with all features."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:158
+msgid "Activates the Product Carousel feature."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:159
+msgid "Insert Product Carousels by widget."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:160
+msgid "Insert Product carousels by shortcode."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:161
+msgid "Fully mobile responsive Carousel sliders."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:164
+msgid "Important!"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:165
+msgid "If you are upgrading to any of the Pro Versions you will need to:"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:167
+msgid ""
+"DEACTIVATE this plugin BEFORE installing and activating another version."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:168
+msgid "If you don't you will get a FATAL ERROR."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:169
+msgid ""
+"All data - sliders, settings and activations will be present in the newly "
+"activated version."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:170
+msgid ""
+"WARNING - If you DELETE this plugin BEFORE you activate another version of "
+"the slider, all slider settings will be lost."
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:174
+msgid "More FREE a3rev WooCommerce Plugins"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:177
+msgid "WooCommerce Product Sort & Display"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:178
+msgid "WooCommerce Products Quick View"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:179
+msgid "WooCommerce Dynamic Products Gallery"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:180
+msgid "WooCommerce Compare Products"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:181
+msgid "WooCommerce Predictive Search"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:182
+msgid "WooCommerce Email Inquiry & Cart Options"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:185
+msgid "FREE a3rev WordPress Plugins"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:188
+msgid "a3 Lazy Load"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:188
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:189
+msgid "a3 Portfolio"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:190
+msgid "a3 Responsive Slider"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:190
+msgid "New Release!"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:191
+msgid "Contact Us Page - Contact People"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:192
+msgid "WordPress Email Template"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:193
+msgid "Page View Count"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:204
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:205
+msgid "Support"
+msgstr ""
+
+#: classes/class-slider-hook-filter.php:210
+msgid "Skins"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:32
+msgid "Insert shortcode"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:42
+msgid "Insert WC Product Slider"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:42
+#: shortcodes/class-slider-shortcodes.php:80
+#: widget/class-carousel-widget.php:65 widget/class-slider-widget.php:113
+#: widget/class-slider-widget.php:158 widget/class-slider-widget.php:201
+msgid "Upgrade to"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:42
+msgid "Product Slider Version"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:42
+#: shortcodes/class-slider-shortcodes.php:80
+#: widget/class-carousel-widget.php:65 widget/class-slider-widget.php:113
+#: widget/class-slider-widget.php:158 widget/class-slider-widget.php:201
+msgid "to activate"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:45
+#: widget/class-carousel-widget.php:69 widget/class-slider-widget.php:115
+msgid "Show Type:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:47
+#: widget/class-carousel-widget.php:71 widget/class-slider-widget.php:117
+msgid "Category"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:48
+#: widget/class-carousel-widget.php:72 widget/class-slider-widget.php:118
+msgid "Tag"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:49
+#: shortcodes/class-slider-shortcodes.php:68
+#: widget/class-carousel-widget.php:73 widget/class-carousel-widget.php:92
+#: widget/class-slider-widget.php:119 widget/class-slider-widget.php:133
+#: widget/class-slider-widget.php:152
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:50
+#: shortcodes/class-slider-shortcodes.php:69
+#: widget/class-carousel-widget.php:74 widget/class-carousel-widget.php:93
+#: widget/class-slider-widget.php:120 widget/class-slider-widget.php:134
+#: widget/class-slider-widget.php:153
+msgid "On Sale"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:55
+#: widget/class-carousel-widget.php:79 widget/class-slider-widget.php:144
+msgid "Category:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:60
+#: widget/class-carousel-widget.php:84 widget/class-slider-widget.php:125
+msgid "Tag:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:65
+#: widget/class-carousel-widget.php:89 widget/class-slider-widget.php:130
+#: widget/class-slider-widget.php:149
+msgid "Filter:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:67
+#: widget/class-carousel-widget.php:91 widget/class-slider-widget.php:132
+#: widget/class-slider-widget.php:151
+msgid "Recent"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:73
+msgid "Number of products:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:74
+#: widget/class-carousel-widget.php:98 widget/class-slider-widget.php:139
+msgid ""
+"Important! Set -1 to show all products. Warning - Setting large numbers "
+"(unlimited) could / will have an  impact on page load speed on some sites."
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:80
+#: widget/class-carousel-widget.php:65
+msgid "Carousel & Slider Version"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:81
+msgid "Slider Type:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:82
+msgid "SLIDER"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:83
+msgid "CAROUSEL"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:87
+#: widget/class-carousel-widget.php:101
+msgid "Carousel Type:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:88
+#: widget/class-carousel-widget.php:102
+msgid "HORIZONTAL"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:89
+#: widget/class-carousel-widget.php:103
+msgid "VERTICAL"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:92
+msgid "Carousel number visible:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:93
+#: widget/class-carousel-widget.php:107
+msgid "Number of slides to be displayed in the carousel."
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:99
+#: widget/class-slider-widget.php:159
+msgid "Skin Type:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:100
+#: widget/class-slider-widget.php:160
+msgid "WIDGET"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:101
+#: widget/class-slider-widget.php:161
+msgid "CARD"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:105
+#: shortcodes/class-slider-shortcodes.php:120
+#: widget/class-slider-widget.php:165 widget/class-slider-widget.php:181
+msgid "Effects Type:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:137
+#: widget/class-carousel-widget.php:110 widget/class-slider-widget.php:195
+msgid "Transition Method:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:138
+#: widget/class-carousel-widget.php:111 widget/class-slider-widget.php:196
+msgid "MANUAL"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:139
+#: widget/class-carousel-widget.php:112 widget/class-slider-widget.php:197
+msgid "AUTO"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:143
+#: widget/class-carousel-widget.php:116 widget/class-slider-widget.php:203
+msgid "Auto Start Delay:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:143
+#: shortcodes/class-slider-shortcodes.php:146
+#: shortcodes/class-slider-shortcodes.php:147
+#: widget/class-carousel-widget.php:116 widget/class-carousel-widget.php:119
+#: widget/class-carousel-widget.php:121 widget/class-slider-widget.php:203
+#: widget/class-slider-widget.php:206 widget/class-slider-widget.php:207
+msgid "seconds"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:146
+#: widget/class-carousel-widget.php:119 widget/class-slider-widget.php:206
+msgid "Time Between Transitions:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:147
+#: widget/class-carousel-widget.php:121 widget/class-slider-widget.php:207
+msgid "Transition Effect Speed:"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:152
+msgid "Slider Alignment"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:155
+msgid "Left - wrap"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:156
+msgid "Left - no wrap"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:158
+msgid "Right - wrap"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:159
+msgid "Right - no wrap"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:160
+msgid "Wrap is text wrap like images"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:161
+msgid "Slider Width"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:167
+msgid "Slider Margin"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:168
+msgid "Above"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:169
+msgid "Below"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:175
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcodes/class-slider-shortcodes.php:176
+msgid "Cancel"
+msgstr ""
+
+#: widget/class-carousel-widget.php:17
+msgid "Use this widget to add WooCommerce Products Carousel as a widget."
+msgstr ""
+
+#: widget/class-carousel-widget.php:19
+msgid "Woo Products Carousel"
+msgstr ""
+
+#: widget/class-carousel-widget.php:66 widget/class-slider-widget.php:110
+msgid "Title:"
+msgstr ""
+
+#: widget/class-carousel-widget.php:97 widget/class-slider-widget.php:138
+msgid "Number of products to show:"
+msgstr ""
+
+#: widget/class-carousel-widget.php:106
+msgid "Carousel Number Visible:"
+msgstr ""
+
+#: widget/class-carousel-widget.php:106
+msgid "slides"
+msgstr ""
+
+#: widget/class-slider-widget.php:17
+msgid "Use this widget to add Woocommerce Products slider as a widget."
+msgstr ""
+
+#: widget/class-slider-widget.php:19
+msgid "Woo Products Slider"
+msgstr ""
+
+#: widget/class-slider-widget.php:113 widget/class-slider-widget.php:158
+#: widget/class-slider-widget.php:201
+msgid "Widget Product Slider Version"
+msgstr ""
