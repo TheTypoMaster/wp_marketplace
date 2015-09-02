@@ -9,7 +9,7 @@ webfont pack. Details available in LICENSE.txt file.
   site in "About" section.
 
 - If your project is open-source, usually, it will be ok to make LICENSE.txt
-  file publically available in your repository.
+  file publicly available in your repository.
 
 - Fonts, used in Fontello, don't require to make clickable links on your site.
   But any kind of additional authors crediting is welcome.
